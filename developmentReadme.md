@@ -1,3 +1,3 @@
-Vite
-npm install
+Next.js
+
 npm run dev
