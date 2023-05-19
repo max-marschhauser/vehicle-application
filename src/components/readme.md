@@ -1,1 +1,0 @@
-Common utilities, services, and stores used in the whole project
